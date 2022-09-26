@@ -1,0 +1,51 @@
+State,lawsRank,grade2019,gunDeathRate
+California,1,A,7.45
+New Jersey,2,A,4.75
+Connecticut,3,A-,4.91
+New York,4,A-,4.03
+Hawaii,5,A-,4.03
+Maryland,6,A-,11.61
+Massachusetts,7,A-,3.46
+Illinois,8,A-,10.78
+Rhode Island,9,B+,3.28
+Washington,10,B+,10.32
+Delaware,11,B,11.55
+Pennsylvania,12,C+,12.47
+Minnesota,13,C+,7.79
+Colorado,14,C+,15.14
+Oregon,15,C+,11.68
+Nevada,15,C+,17.84
+New Mexico,17,C,20.75
+Nebraska,18,C,9.05
+Iowa,19,C,8.62
+Michigan,19,C,12.82
+Wisconsin,21,C-,10.13
+Florida,22,C-,12.81
+Vermont,23,C-,12.63
+Ohio,24,D,13.05
+North Carolina,24,D,13.26
+Virginia,26,D,11.76
+Utah,27,D,13.14
+Indiana,28,D-,14.71
+Tennessee,29,D-,17.82
+New Hampshire,30,F,10.66
+South Carolina,31,F,17.51
+Georgia,32,F,15.72
+Louisiana,32,F,21.31
+Maine,34,F,10.32
+Texas,34,F,12.22
+Montana,34,F,17.27
+West Virginia,34,F,18.11
+Alabama,38,F,21.7
+North Dakota,39,F,11.36
+Oklahoma,40,F,16.71
+Arkansas,40,F,18.96
+Alaska,42,F,20.74
+Kansas,43,F,14.65
+South Dakota,44,F,13.5
+Arizona,45,F,15.29
+Kentucky,46,F,16.81
+Missouri,46,F,21.34
+Idaho,48,F,16.61
+Wyoming,48,F,21.09
+Mississippi,50,F,22.81
